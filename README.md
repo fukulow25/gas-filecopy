@@ -57,4 +57,4 @@ GASのエディタ画面（Google Apps Script）で、以下の手順でDrive AP
 
 ## 画面イメージ
 
-<img src="https://github.com/fukulow25/gas-foldercopy/blob/main/images/screenshot_foldercopy.jpg" width="80%">
+<img src="https://github.com/fukulow25/gas-filecopy/blob/main/images/screenshot_filecopy.jpg" width="80%">
